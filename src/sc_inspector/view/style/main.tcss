@@ -1,0 +1,7 @@
+#app {
+    height: 100%; 
+}
+
+#right-panel {
+    border-left: solid red;
+}

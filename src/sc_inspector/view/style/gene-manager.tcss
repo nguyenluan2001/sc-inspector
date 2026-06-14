@@ -1,0 +1,7 @@
+#gene-manager {
+    padding: 1 2;
+}
+
+#gene-manager SelectionList {
+    height: 10;
+}

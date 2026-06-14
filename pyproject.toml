@@ -1,0 +1,19 @@
+[project]
+name = "sc_inspector"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "anndata",
+    "ruff",
+    "textual",
+    "textual-dev",
+    "rich",
+    "plotille",
+    "scanpy",
+]
+[project.scripts]
+sc_inspector = "sc_inspector.main:main"

@@ -1,0 +1,13 @@
+#metadata-manager {
+    padding: 1 2;
+    border-top: solid red;
+}
+
+#metadata-manager Select {
+    width: 100%;
+    margin-bottom: 2;
+}
+
+#metadata-manager DataTable {
+    max-height: 70%;
+}

@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/sc_inspector/main.py
+src/sc_inspector.egg-info/PKG-INFO
+src/sc_inspector.egg-info/SOURCES.txt
+src/sc_inspector.egg-info/dependency_links.txt
+src/sc_inspector.egg-info/entry_points.txt
+src/sc_inspector.egg-info/requires.txt
+src/sc_inspector.egg-info/top_level.txt
+src/sc_inspector/controller/app.py
+src/sc_inspector/utils/file.py
+src/sc_inspector/utils/io.py
+src/sc_inspector/utils/parser.py
+src/sc_inspector/view/gene_manager/view.py
+src/sc_inspector/view/main/view.py
+src/sc_inspector/view/metadata_manager/view.py
+src/sc_inspector/view/scatter_manager/view.py

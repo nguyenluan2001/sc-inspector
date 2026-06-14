@@ -1,0 +1,10 @@
+#scatter-manager {
+    width: 75%;
+    height: 100%;
+    overflow: scroll;
+    align: center middle;
+}
+
+#scatter-manager #scatter_plot {
+    width: 60%
+}

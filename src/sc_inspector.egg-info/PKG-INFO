@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: sc_inspector
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: anndata
+Requires-Dist: ruff
+Requires-Dist: textual
+Requires-Dist: textual-dev
+Requires-Dist: rich
+Requires-Dist: plotille
+Requires-Dist: scanpy

@@ -1,0 +1,9 @@
+numpy
+pandas
+anndata
+ruff
+textual
+textual-dev
+rich
+plotille
+scanpy

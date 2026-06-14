@@ -1,0 +1,2 @@
+[console_scripts]
+sc_inspector = sc_inspector.main:main
