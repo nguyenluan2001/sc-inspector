@@ -7,7 +7,9 @@ src/sc_inspector.egg-info/dependency_links.txt
 src/sc_inspector.egg-info/entry_points.txt
 src/sc_inspector.egg-info/requires.txt
 src/sc_inspector.egg-info/top_level.txt
+src/sc_inspector/constant/color.py
 src/sc_inspector/controller/app.py
+src/sc_inspector/model/metadata.py
 src/sc_inspector/utils/file.py
 src/sc_inspector/utils/io.py
 src/sc_inspector/utils/parser.py

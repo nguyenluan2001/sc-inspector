@@ -1,8 +1,14 @@
 #scatter-manager {
     width: 75%;
     height: 100%;
-    overflow: scroll;
+    overflow: auto;
+    padding: 2;
+}
+
+#scatter-manager #scatter_container {
     align: center middle;
+    width: 100%;
+    height: 80%;
 }
 
 #scatter-manager #scatter_plot {
